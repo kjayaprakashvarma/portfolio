@@ -92,7 +92,7 @@ export default function Home() {
               </div>
             </div>
 
-            <img src="/profile.jpg" alt="profile" className="avatar" />
+            <img src="profile.jpg" alt="profile" className="avatar" />
           </div>
         </section>
 

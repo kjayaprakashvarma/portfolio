@@ -45,18 +45,6 @@ The design focuses on readability, simplicity, and strong visual hierarchy.
 
 ---
 
-## 📁 Project Structure
-portfolio/
-├── public/
-│ └── profile.jpg
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── App.jsx
-│ └── main.jsx
-├── index.html
-├── package.json
-└── vite.config.js
 
 
 ---
@@ -72,29 +60,11 @@ portfolio/
 ### 3. Run development server
 - npm run dev
 
-### 4. Open in browser
 
 
 ---
-## 🌐 Deployment (GitHub Pages)
 
-This portfolio is deployed using GitHub Pages.
 
-### Steps to deploy:
-
-1. Build the project
-- npm run build
-
-2. Push code to GitHub (main branch)
-
-3. Go to your repository → Settings → Pages
-
-4. Under "Build and deployment":
-   - Source: Deploy from a branch
-   - Branch: `main`
-   - Folder: `/dist`
-
-5. Save → GitHub will generate a live link
 
 ### 🔗 Live Site
-https://your-username.github.io/portfolio/
+https://kjayaprakashvarma.github.io/portfolio/
